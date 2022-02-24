@@ -1,0 +1,11 @@
+[package]
+name = "automntcpy"
+version = "0.1.0"
+edition = "2018"
+authors = ["Sebastian Peradotto (sebastian.peradotto@gmail.com)"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+block-utils = "0.10.3"
+fs_extra = "1.2.0"
